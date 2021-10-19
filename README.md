@@ -1,9 +1,9 @@
-### Hi there 👋
+#### Hello friend 👋
 
 
 - 🔭 I’m currently working on React, Next, ASP, .NET
 - 🌱 I'm currently learning React, Vue, Next, ASP, .NET
-- 📫 How to reach me: ramon.mastropaulo@hotmail.com
+- 📫 How to reach me: arthurkvasque.eng@outlook.com
 - ⚡ Fun fact: I'm graduated in civil engineering, but the love of coding took me to the light side of the moon! 
 
 
