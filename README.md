@@ -6,7 +6,7 @@
 - 📫 How to reach me: arthurkvasque.eng@outlook.com
 
 
-<div align="center">
+<div>
   <a href=""> 
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ArthurKVasque07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurKVasque07&theme=tokyonight&line_height=40&hide=css&layout=compact"/> 
