@@ -7,9 +7,9 @@
 
 
 <div>
-  <a href="https://github.com/ArthurKVasque07">
-  <img height="180em" src="https://https://arthur-k-vasque07-arthurkvasque07.vercel.app//api?username=ArthurKVasque07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://https://arthur-k-vasque07-arthurkvasque07.vercel.app/api/top-langs/?username=ArthurKVasque07&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href=""> 
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurKVasque07&theme=react&line_height=40&hide=css"/> 
+  </a>  
 </div>
 
 
