@@ -8,7 +8,8 @@
 
 <div>
   <a href=""> 
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurKVasque07&theme=react&line_height=40&hide=css&include_all_commits=true&count_private=true&layout=compact"/> 
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ArthurKVasque07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurKVasque07&theme=react&line_height=40&hide=css&layout=compact"/> 
   </a>  
 </div>
 
