@@ -8,7 +8,7 @@
 
 <div>
   <a href=""> 
-    <img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?    username=ArthurKVasque07&show_icons=true&theme=react&include_all_commits=true&count_private=true&line_height=40&hide=css"/> 
+    <img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?    username=ArthurKVasque07&theme=react&line_height=40&hide=css"/> 
   </a>  
 </div>
 
