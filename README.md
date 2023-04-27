@@ -1,7 +1,7 @@
 #### Hello friend 👋
 
 
-- 🔭 I’m currently working on React, Next, ASP, .NET
+- 🔭 I’m currently working on React, Next, NodeJS, .NET
 - 🌱 I'm currently learning React, Vue, Next, Angular, ASP, .NET, Node
 - 📫 How to reach me: arthurkvasque.eng@outlook.com
 
