@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on React, Next, NodeJS, .NET
-- 🌱 I'm currently learning React, Vue, Next, Angular, ASP, .NET, Node
+- 🌱 I'm currently learning React, Vue, Next, .NET, Node and Golang
 - 📫 How to reach me: arthurkvasque.eng@outlook.com
 
 
